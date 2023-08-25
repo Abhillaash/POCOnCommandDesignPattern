@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Downloads\Monocept\POCOnCommandDesignPattern\POCOnCommandDesignPattern\bin\Debug\netcoreapp3.1\POCOnCommandDesignPattern.exe
+C:\Users\Lenovo\Downloads\Monocept\POCOnCommandDesignPattern\POCOnCommandDesignPattern\bin\Debug\netcoreapp3.1\POCOnCommandDesignPattern.deps.json
+C:\Users\Lenovo\Downloads\Monocept\POCOnCommandDesignPattern\POCOnCommandDesignPattern\bin\Debug\netcoreapp3.1\POCOnCommandDesignPattern.runtimeconfig.json
+C:\Users\Lenovo\Downloads\Monocept\POCOnCommandDesignPattern\POCOnCommandDesignPattern\bin\Debug\netcoreapp3.1\POCOnCommandDesignPattern.runtimeconfig.dev.json
+C:\Users\Lenovo\Downloads\Monocept\POCOnCommandDesignPattern\POCOnCommandDesignPattern\bin\Debug\netcoreapp3.1\POCOnCommandDesignPattern.dll
+C:\Users\Lenovo\Downloads\Monocept\POCOnCommandDesignPattern\POCOnCommandDesignPattern\bin\Debug\netcoreapp3.1\POCOnCommandDesignPattern.pdb
+C:\Users\Lenovo\Downloads\Monocept\POCOnCommandDesignPattern\POCOnCommandDesignPattern\obj\Debug\netcoreapp3.1\POCOnCommandDesignPattern.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\Monocept\POCOnCommandDesignPattern\POCOnCommandDesignPattern\obj\Debug\netcoreapp3.1\POCOnCommandDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\Monocept\POCOnCommandDesignPattern\POCOnCommandDesignPattern\obj\Debug\netcoreapp3.1\POCOnCommandDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\Monocept\POCOnCommandDesignPattern\POCOnCommandDesignPattern\obj\Debug\netcoreapp3.1\POCOnCommandDesignPattern.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\Monocept\POCOnCommandDesignPattern\POCOnCommandDesignPattern\obj\Debug\netcoreapp3.1\POCOnCommandDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Monocept\POCOnCommandDesignPattern\POCOnCommandDesignPattern\obj\Debug\netcoreapp3.1\POCOnCommandDesignPattern.dll
+C:\Users\Lenovo\Downloads\Monocept\POCOnCommandDesignPattern\POCOnCommandDesignPattern\obj\Debug\netcoreapp3.1\POCOnCommandDesignPattern.pdb
+C:\Users\Lenovo\Downloads\Monocept\POCOnCommandDesignPattern\POCOnCommandDesignPattern\obj\Debug\netcoreapp3.1\POCOnCommandDesignPattern.genruntimeconfig.cache
